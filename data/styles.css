@@ -79,6 +79,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -93,7 +97,14 @@
 .radio_button {
   text-align:left;
 }
+.flow_shape {
+}
 .menu_item {
 }
 .icon {
+}
+.html_button {
+  text-align:center;
+}
+.table_cell {
 }
